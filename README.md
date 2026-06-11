@@ -74,6 +74,24 @@ The analysis helps businesses improve inventory planning, reduce stockout risk, 
 
 ---
 
+## 2026 Learning Roadmap
+
+✅ SQL
+
+🔄 Excel
+
+🔄 Power BI
+
+🔄 Python
+
+⬜ Statistics
+
+⬜ End-to-End Analytics Project
+
+⬜ Portfolio Website
+
+---
+
 ## Currently Learning
 
 * Advanced SQL
