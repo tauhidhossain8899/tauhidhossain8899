@@ -1,10 +1,10 @@
-# Hi, I'm Tauhid Hossain 👋
+# Hi, I'm Tauhid Hossain 
 
-🎓 Bachelor's in CSE @ East West University
+🎓 B.Sc. in Computer Science & Engineering, East West University
 
-📊 Data Analyst Intern @ AtliQ Technologies
+📊 Aspiring Data Analyst
 
-💡 Passionate about transforming raw data into actionable business insights.
+💡 Passionate about Data Analytics, Business Intelligence, and Data-Driven Decision Making
 
 ---
 
