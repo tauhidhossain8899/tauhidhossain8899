@@ -1,6 +1,6 @@
 # Hi, I'm Tauhid Hossain 👋
 
-🎓 Computer Science Student
+🎓 Bachelor's in CSE @ East West University
 
 📊 Data Analyst Intern @ AtliQ Technologies
 
