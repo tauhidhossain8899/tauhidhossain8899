@@ -66,6 +66,14 @@ The analysis helps businesses improve inventory planning, reduce stockout risk, 
 
 ---
 
+## GitHub Stats
+
+![Tauhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauhidhossain8899&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidhossain8899&layout=compact&theme=github_dark)
+
+---
+
 ## Currently Learning
 
 * Advanced SQL
