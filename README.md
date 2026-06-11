@@ -77,6 +77,7 @@ The analysis helps businesses improve inventory planning, reduce stockout risk, 
 
 * Advanced SQL
 * Power BI
+* Python for Data Analysis
 * Data Visualization
 * Business Analytics
 
