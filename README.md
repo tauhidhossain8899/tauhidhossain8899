@@ -89,4 +89,4 @@ The analysis helps businesses improve inventory planning, reduce stockout risk, 
 
 📧 Email: tauhidhossain8899@gmail.com
 
-🌐 Portfolio Website: Coming Soon
+🌐 Portfolio Website: https://codebasics.io/portfolio/Mohammad-Tauhid-Hossain
