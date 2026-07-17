@@ -12,7 +12,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tauhidhossain8899&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![Tauhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauhidhossain8899&show_icons=true&theme=github_dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tauhidhossain8899&limit=5&theme=dark&combine_all_yearly_contributions=true)
